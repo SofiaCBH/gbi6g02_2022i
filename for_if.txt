@@ -1,0 +1,6 @@
+Par: exam1/multi_copia/n19.txt tiene 16 columnas
+Impar: exam1/multi_copia/n29.txt tiene 25 columnas
+Impar: exam1/multi_copia/n39.txt tiene 25 columnas
+Impar: exam1/multi_copia/n49.txt tiene 23 columnas
+Par: exam1/multi_copia/n59.txt tiene 130 columnas
+Par: exam1/multi_copia/n9.txt tiene 22 columnas
